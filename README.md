@@ -1,3 +1,5 @@
 # Dog-vision
 Multi-class image classification model that predicts the breed of dog.
-![Capture PNG1](https://user-images.githubusercontent.com/76205318/137583088-7d5cee3b-9f8a-4c1e-9527-50c6ab36a423.PNG)
+Model used can be assessed - https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5
+
+![Capture PNG1](https://user-images.githubusercontent.com/76205318/137583141-0742189f-cf49-4408-ae95-088b906180fc.PNG)
