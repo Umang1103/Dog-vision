@@ -1,4 +1,4 @@
-# Dog-vision
+# Dog-vision (An attempt to recognise the breed of dogs)
 Multi-class image classification model that predicts the breed of dog.
 Model used can be assessed - https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5
 
